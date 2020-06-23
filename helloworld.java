@@ -1,9 +1,6 @@
-public class Hello {
-	public static void main (string[] args){
 
-		for (int i=1;i<=5;i++){
-			system.out.println("Hello world.."+i);
-		}
-	}
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
 }
-
